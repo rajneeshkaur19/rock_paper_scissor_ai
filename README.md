@@ -72,3 +72,58 @@ That's it — no virtual environments or installations needed!
 ---
 
 ## 🎮 How to Play
+- Enter `1` to start the quiz
+- Enter `2` to exit
+- Type your full answer for each question and press Enter
+- Answers are **not** case-sensitive
+
+---
+
+## 🗂️ Project Structure
+quiz_game_beginner_project/
+├── quiz_game.py    # Main game file
+└── README.md       # Project documentation
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3.x
+- **Concepts used:** `input()`, `str.strip()`, `str.lower()`, `if/elif/else`
+- **Dependencies:** None — standard library only
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to **fork** this repo and improve it. Some ideas:
+
+- 🏆 Add a **score tracker** at the end
+- 📚 Add **more question categories**
+- 🔀 Randomize question order
+- ⏱️ Add a **timer** for each question
+- 🔄 Refactor using **functions** or **classes**
+
+To contribute:
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ as a beginner Python project.
+
+⭐ **If you found this helpful, please give it a star on GitHub!** ⭐
+
