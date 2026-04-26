@@ -49,15 +49,17 @@ The AI maintains a full history of your moves each session. After each round, it
 ---
 
 ## Project Structure
+```
 rps.py
-├── main()              # Entry point and outer game loop
-├── select_mode()       # Choose Best of 3 or Best of 5
-├── play_game()         # Round logic and score tracking
-├── get_user_move()     # Validated user input
-├── get_ai_move()       # Frequency-based AI prediction
-├── decide_winner()     # Determine round outcome
-└── show_final_result() # Display end-of-game result
----
+├── main()               # Entry point and outer game loop
+├── select_mode()        # Choose Best of 3 or Best of 5
+├── play_game()          # Round logic and score tracking
+├── get_user_move()      # Validated user input
+├── get_ai_move()        # Frequency-based AI prediction
+├── decide_winner()      # Determine round outcome
+└── show_final_result()  # Display end-of-game result
+```
+
 
 ## Author
 
