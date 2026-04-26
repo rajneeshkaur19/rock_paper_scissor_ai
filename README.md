@@ -28,10 +28,10 @@ No external dependencies. Requires Python 3.x.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/ai-rock-paper-scissors.git
+git clone https://github.com/rajneeshkaur19/rock_paper_scissor_ai.git
 
 # Run the game
-python rps.py
+python rock_paper_scissor.py
 ```
 
 ---
